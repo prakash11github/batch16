@@ -1,1 +1,2 @@
 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
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp
